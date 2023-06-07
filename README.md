@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou o Cauã meu nick é: @comrade-josef
+- 👋 Olá, Eu sou o Cauã. nick:  @comrade-josef
 - 👀 Sou muito ligado ao mundo digital, crio e jogo alguns games
 - 🌱 No momento wstou cursando desenvolvimento de sistemas pelo senai e estudando game design
 - 💞️ Estou procurando colaborar com alguma empresas do ramo de tecnologia...
