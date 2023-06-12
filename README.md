@@ -1,6 +1,6 @@
-- 👋 Olá, Eu sou o Cauã. nick:  @comrade-josef
-- 👀 Sou muito ligado ao mundo digital, crio e jogo alguns games
-- 🌱 No momento wstou cursando desenvolvimento de sistemas pelo senai e estudando game design
+- 👋 Olá, Eu sou o Cauã. nick:  @comrade-josef.
+- 👀 Sou muito ligado ao mundo digital, crio e jogo alguns games.
+- 🌱 No momento estou cursando desenvolvimento de sistemas pelo SENAI e estudando game design.
 - 💞️ Estou procurando colaborar com alguma empresas do ramo de tecnologia...
 - 📫 Pode me contatar pelo Linkedin ou Instagram ...
 
